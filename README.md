@@ -4,7 +4,8 @@ A quick app that I vibecoded for the Samsung ST200F camera that I have, since Sa
 
 Yes, this is not an Android app, but a terminal-based prototype. Just run by doing:
 
-##python st200f-app.py
+python st200f-app.py
+(or python3, depending on what you have)
 
 I first like to start the app, then start the MobileLink on the camera, and then do:
 
